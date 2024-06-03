@@ -1,8 +1,27 @@
-# React + Vite
+# Password generator web-app 😎
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Used Hooks ✅ :
 
-Currently, two official plugins are available:
+- useState
+- useRef
+- useCallback
+- useEffect
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Instructor :
+
+## Hitesh choudary "CHAI AUR CODE" ☕
+
+- **In react playlist named " CHAI AUR REACT "** 🚀
+
+### Complexity  ♟:
+
+- Targeting particular field
+- Memorization concept of functions : useCallback
+- Running a block of code on a particular event of change in dependencies
+- Mixing Numbers, Symboles in password to make it stronger
+- Generating Password at every change in dependencies array
+- and many more...
+
+#### Lecture no. 10 completed on 2June 
+
+# Thank you 👩‍💻🚀😉
